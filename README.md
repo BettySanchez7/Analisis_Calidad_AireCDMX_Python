@@ -2,7 +2,7 @@
 
 Proyecto sobre el análisis sobre los parámetros de calidad del aire en CDMX y zonas aledañas con el fin de saber si la pandemia COVID19 influyó en estos parámetros y recolectar datos que puedan ayudar a visualizar y entender de una mejor manera la problemática de la contaminación en el aire. 
 
-![](https://ep00.epimg.net/internacional/imagenes/2016/03/03/mexico/1457040820_632100_1457041126_noticia_normal.jpg)
+<img src="https://ep00.epimg.net/internacional/imagenes/2016/03/03/mexico/1457040820_632100_1457041126_noticia_normal.jpg" alt="drawing" width="200"/>
 
 Contenido del proyecto:
 
