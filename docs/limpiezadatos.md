@@ -11,4 +11,4 @@ Una vez casi concluida la fase de limpieza de datos descubrimos que existían fi
 
 Puedes ver la limpieza de los datos en la sección "Limpieza de datos" del notebook
 
-[NOTEBOOK CON LIMPIEZA DE DATOS]()
+[Siguiente: transformacion de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/transformaciondatos.md)
