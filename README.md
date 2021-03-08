@@ -25,11 +25,11 @@ Contenido del proyecto:
 
 ● [Colección de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/tree/main/docs/Datos.md)
 
-● [Análisis exploratorio de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/Procesamiento_Datos.ipynb)
+● [Análisis exploratorio de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/analisisexploratorio.md)
 
-● [Limpieza de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/Procesamiento_Datos.ipynb)
+● [Limpieza de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/limpiezadatos.md)
 
-● [Transformación de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/Procesamiento_Datos.ipynb)
+● [Transformación de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/transformaciondatos.md)
 
 ● [Notebook con analisis exploratorio de datos, limpieza de datos y transformación de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/Procesamiento_Datos.ipynb)
 
