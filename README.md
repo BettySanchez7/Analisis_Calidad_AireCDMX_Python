@@ -6,11 +6,11 @@ Proyecto sobre el análisis sobre los parámetros de calidad del aire en CDMX y 
 
 Contenido del proyecto:
 
-● [Introducción e Identificación del problema ]() 
+● [Introducción e Identificación del problema ](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/tree/main/docs/introduccion.md) 
 
-● [Planteamiento de preguntas clave]()
+● [Planteamiento de preguntas clave](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/tree/main/docs/preguntasclave.md)
 
-● [Colección de datos]()
+● [Colección de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/tree/main/docs/Datos.md)
 
 ● [Análisis exploratorio de datos]()
 
