@@ -23,4 +23,4 @@ Contenido del proyecto:
 
 
 AQUI ENCUENTRAS LA DOCUMENTACIÓN COMPLETA:
-● [Documentación](link del pdf)
+[Documentación]()
