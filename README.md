@@ -21,6 +21,14 @@ Contenido del proyecto:
 ● [¿Qué se planea hacer a futuro?(uso de API's, visualizaciones, etc.)](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/tree/main/docs/planeacionfuturo.md)
 
 
+LINK DEL VIDEO DEL PROYECTO:
+[Video]()
 
-AQUI ENCUENTRAS LA DOCUMENTACIÓN COMPLETA:
+DOCUMENTACIÓN COMPLETA:
+
 [Documentación]()
+
+PRESENTACIÓN DEL PROYECTO:
+
+[Presentacion]()
+
