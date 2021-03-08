@@ -21,3 +21,6 @@ Con la información recabada se plantearon las siguientes preguntas que podrían
 -   ¿El periodo de confinamiento coincide con una mejor calidad de aire?
     
 -   ¿Cuál fue el contaminante con menores cambios en el período 2005-2020?
+
+
+[Siguiente: colección de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/Datos.md)
