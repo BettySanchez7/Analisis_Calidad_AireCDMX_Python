@@ -81,3 +81,6 @@ Y 5 zonas:
 - Zona Noroeste
 
 Para el análisis de la limpieza de datos se optó por algunos métodos que redujeron de forma considerable la cantidad de información. Esto se describe a continuación.
+
+
+[Siguiente: limpieza de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/limpiezadatos.md)
