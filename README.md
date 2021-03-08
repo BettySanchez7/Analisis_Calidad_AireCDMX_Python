@@ -5,6 +5,7 @@ Proyecto sobre el análisis sobre los parámetros de calidad del aire en CDMX y 
 <aquí imagen de contaminacion xd
 
 Contenido del proyecto:
+
 ● [Introducción e Identificación del problema ]() 
 
 ● [Planteamiento de preguntas clave]()
