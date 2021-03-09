@@ -39,3 +39,6 @@ A partir de esta información podemos concluir que la Zona Centro es la que pres
 ![](https://lh4.googleusercontent.com/D4b0R1Rkw_9_hPMWeDvc7zkfVRsFzj_UuTGI4azxGD_933xD1G_qu_Z9cv1NQq9BoMXThxK1yxDdT7ZdztA4hBBNhGnXQrZu3QAxwq2yKGdBBT7XksJJfOTYxqj88nHtJl__6Hwy)
 
 De las concentraciones de contaminantes por año podemos observar que las partículas menores a 10 micras son las que tuvieron un valor IMECA más alto en todos los años. Este dato es de interés porque según informes anteriores estos valores van en descenso, pero de cualquier modo siguen siendo altos.
+
+
+[Siguiente: Planeacion a futuro](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/planeacionfuturo.md)
