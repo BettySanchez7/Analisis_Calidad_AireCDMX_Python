@@ -85,7 +85,7 @@ Como se puede observar todos estos contaminantes tienen graves afectaciones a la
 
 ![](https://lh5.googleusercontent.com/07HClik8fpzXOVvVHCpbBIsc_ku2rtnSCv2p07o0JHnHgUkJp02HyDIQXY0dt8j-ISiy0Rh-wJ-YaKGbYCaPjuk2qQiNh-puh-JleOWb-Fj4z-xp9CrghqKhtReMHtEGzXDHun8a)
 
-Figura 1. Clasificación IMECA
+                                                        Figura 1. Clasificación IMECA
 
   
 
