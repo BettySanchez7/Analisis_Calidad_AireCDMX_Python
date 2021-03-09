@@ -6,8 +6,6 @@ Con la información recabada se plantearon las siguientes preguntas que podrían
     
 -   ¿En qué meses se tiene la máxima concentración de cada contaminante?
     
--   ¿En qué intervalo de calidad del aire (buena, regular, mala, …) quedan los meses de 2018-2020?
-    
 -   ¿Hay algún mes de algún año en el que se haya obtenido la calificación de calidad “Extremadamente mala”?
     
 -   ¿Cuál es la zona que presenta mayor contaminación, en general?
