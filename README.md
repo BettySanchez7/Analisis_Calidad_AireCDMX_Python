@@ -43,7 +43,7 @@ Proyecto sobre el análisis sobre los parámetros de calidad del aire en CDMX y 
 
 ### LINKS A INFORMACIÓN SOBRE EL PROYECTO:
 
-[LINK DEL VIDEO DEL PROYECTO]()
+[LINK DEL VIDEO DEL PROYECTO](https://youtu.be/_eM8GVxmE4o)
 
 [DOCUMENTACIÓN COMPLETA](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/documentacion.pdf)
 
