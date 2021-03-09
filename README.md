@@ -33,7 +33,7 @@ Proyecto sobre el análisis sobre los parámetros de calidad del aire en CDMX y 
 
 ● [Notebook con analisis exploratorio de datos, limpieza de datos y transformación de datos](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/Procesamiento_Datos.ipynb)
 
-● [¿Qué se planea hacer a futuro?(uso de API's, visualizaciones, etc.)](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/tree/main/docs/planeacionfuturo.md)
+● [¿Qué se planea hacer a futuro? (Propuestas de análisis y visualización)](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/tree/main/docs/planeacionfuturo.md)
 
 ### LINKS A INFORMACIÓN SOBRE EL PROYECTO:
 
