@@ -10,4 +10,4 @@ Como último paso del proceso de transformación de datos, decidimos calcular pr
 
 Puedes ver el proceso que se llevo a cabo en la sección "Transformación de datos" del notebook: 
 
-[Siguiente: Notebook del proyecto](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/Procesamiento_Datos.ipynb)
+[Siguiente: Resultados del proyecto](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/resultados.md)
