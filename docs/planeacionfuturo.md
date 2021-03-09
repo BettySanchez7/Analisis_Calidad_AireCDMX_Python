@@ -66,3 +66,5 @@ Estos mapas comparativos nos permitirán enseñar de forma clara cómo es que un
   
 
 La propuesta para presentar la información es realizar mapas interactivos utilizando el paquete Folium y datos geográficos de las zonas IMECA. Estas visualizaciones serán muy útiles para hacer comparaciones entre las zonas y tener una mejor percepción de cómo se distribuye la concentración de contaminantes.
+
+[Siguiente: conclusiones](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/docs/conclusiones.md)
