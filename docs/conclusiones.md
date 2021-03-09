@@ -10,3 +10,6 @@ En algunas ocasiones, el acceso a la información no es sencillo como nosotros p
   
 
 Entendemos la importancia que tiene el aire y su calidad,en la vida de la gente de la ZMVM, se habla de los efectos nocivos en la salud que puede tener este, lo cual nos hace reflexionar, en el contexto actual de una pandemia global, ¿la contaminación del aire en nuestras ciudades podría estar afectando de alguna forma las hospitalizaciones?, o ¿será que la pandemia ha sido un factor determinante en la mejora del aire?. No responder de forma clara hasta este punto alguna de estas preguntas, pero es claro que los datos que poseemos podrían ayudar a contestar alguna de estas cuestiones.
+
+
+[Siguiente: Notebook del proyecto](https://github.com/BettySanchez7/Analisis_Calidad_AireCDMX_Python/blob/main/Procesamiento_Datos.ipynb)
