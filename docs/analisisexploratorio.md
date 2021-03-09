@@ -65,6 +65,7 @@ En los años 2019 y 2020 se agregaron mediciones de partículas menores a 2.5 mi
 - SECO
 - SEPM10
 - SEPM2  
+
 Las mediciones de contaminantes en valor IMECA se registran cada hora los 365 días (o 366 en año bisiesto). Existen datos “-99” que, como se mencionó antes, corresponden a valores faltantes. El conjunto total de datos cuenta con 140277 filas, cada una equivalente a una medición horaria.
 
 En cuanto a las variables o columnas, se puede resumir que trabajaremos únicamente con 5 contaminantes:
