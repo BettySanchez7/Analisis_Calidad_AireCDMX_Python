@@ -1,5 +1,5 @@
 ## Análisis de la calidad de aire en la Ciudad de México y zonas aledañas.
-### Etapa 1: Extracción, impieza y transormación de datos
+### Etapa 1: Extracción, impieza y transformación de datos
 ### EQUIPO 3 
 
 -   Maria Beatriz Sanchez Díaz
